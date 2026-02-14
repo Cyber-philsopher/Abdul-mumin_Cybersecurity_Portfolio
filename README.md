@@ -16,19 +16,22 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 |-----------------------------------------------|----------------------------|
 |Active Directory & Identity Access Management (IAM)          | <a href="https://google.com">Windows Active Directory</a>|
 | Group Policy Security Hardening | <a href="https://google.com">Windows Active Directory</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Server Administration & Core Services (DNS/DHCP)         | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
+| Network Security Implementation      | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+</div>
+
+### Identity Management
+<div>
+    <img src="https://img.shields.io/badge/Windows%20Server-Active%20Directory%20Lab-003366?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -47,13 +50,11 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0066CC?&style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>
 - SOC Automation Project
