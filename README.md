@@ -14,9 +14,9 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Active Directory & Identity Access Management (IAM)          | <a href="https://google.com">Windows Active Directory</a>|
-| Group Policy Security Hardening | <a href="https://google.com">Windows Active Directory</a>|
-| Server Administration & Core Services (DNS/DHCP)         | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
+|Active Directory & Identity Access Management (IAM)          | <a href="https://github.com/Cyber-philsopher/Cyber-Security-Implementation-and-Information-Assurance-for-Digital-Sentinel/tree/main">Cyber Security Implementation and Information Assurance for Digital Sentinel</a>|
+| Group Policy Security Hardening | <a href="https://github.com/Cyber-philsopher/Cyber-Security-Implementation-and-Information-Assurance-for-Digital-Sentinel/tree/main">Cyber Security Implementation and Information Assurance for Digital Sentinel</a>|
+| Network Administration         | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
 | Network Security Implementation      | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -27,6 +27,7 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ### Identity Management
