@@ -1,4 +1,3 @@
-# Abdul-mumin's Cybersecurity Portfolio
 <a href="https://www.linkedin.com/in/abdul-mu-min-rafiu-cc-546968252/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Aspiring cybersecurity professional documenting labs, security research, and real-world defensive skills.
@@ -10,7 +9,6 @@ Passionate about identifying vulnerabilities and strengthening system defenses t
 Eager to contribute, learn from industry professionals, and grow into a well-rounded security specialist.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,7 +47,6 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0066CC?&style=for-the-badge&logo=isc2&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
