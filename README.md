@@ -1,3 +1,5 @@
+# Hi! I am Abdul-mumin
+
 <a href="https://www.linkedin.com/in/abdul-mu-min-rafiu-cc-546968252/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Aspiring cybersecurity professional documenting labs, security research, and real-world defensive skills.
@@ -16,6 +18,8 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 | Group Policy Security Hardening | <a href="https://github.com/Cyber-philsopher/Cyber-Security-Implementation-and-Information-Assurance-for-Digital-Sentinel/tree/main">Cyber Security Implementation and Information Assurance for Digital Sentinel</a>|
 | Network Administration         | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
 | Network Security Implementation      | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
+| Privilege Escalation (Windows & Linux)      | <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>|
+| Active Directory & Lateral Movement      | <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -55,4 +59,7 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 
 ## Projects
 - <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>
-- SOC Automation Project
+
+- <a href="https://github.com/Cyber-philsopher/Cyber-Security-Implementation-and-Information-Assurance-for-Digital-Sentinel/tree/main">Cyber Security Implementation and Information Assurance for Digital Sentinel</a>
+
+- <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>
