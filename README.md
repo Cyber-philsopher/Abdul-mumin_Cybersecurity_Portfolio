@@ -30,6 +30,9 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
 ### Identity Management
@@ -37,17 +40,23 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
     <img src="https://img.shields.io/badge/Windows%20Server-Active%20Directory%20Lab-003366?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### Endpoint
+### Ethical Hacking
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005EB8?style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
+
+### DFIR 
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-4B0082?style=for-the-badge&logo=autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility%203-2E2E2E?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AccessData%20Registry%20Viewer-003366?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
