@@ -20,8 +20,6 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 | Network Security Implementation      | <a href="https://github.com/Cyber-philsopher/Smart-Campus-Enterprise-IoT-Network-Design/tree/main">Smart Campus: IoT-Network Design</a>|
 | Privilege Escalation (Windows & Linux)      | <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>|
 | Active Directory & Lateral Movement      | <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
