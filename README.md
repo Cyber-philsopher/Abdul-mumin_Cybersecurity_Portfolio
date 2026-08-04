@@ -71,3 +71,4 @@ Eager to contribute, learn from industry professionals, and grow into a well-rou
 - <a href="https://github.com/Cyber-philsopher/Cyber-Security-Implementation-and-Information-Assurance-for-Digital-Sentinel/tree/main">Cyber Security Implementation and Information Assurance for Digital Sentinel</a>
 
 - <a href="https://github.com/Cyber-philsopher/Practical-Ethical-Hacking-Lab-Series/tree/main">Practical-Ethical-Hacking-Lab-Series</a>
+- <a href="https://github.com/Cyber-philsopher/Linux-System-Hardening-Project/edit/main/README.md">Linux-System-Hardening</a>
